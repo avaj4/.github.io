@@ -1,17 +1,14 @@
 .profile-pic {
   position: relative;
-  max-width:130px;
-  max-height:130px;
+  max-width: 130px;
+  max-height: 130px;
   width: auto;
   height: auto;
   overflow: hidden;
   /* display: inline-block; */
-  
-  
-  /* background-size: cover;  */
-  margin: -31px; 
-  margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  margin: -31px;
+  margin-left: -7px;
+  border: 6px solid rgba(0, 77, 64, 0.4);
   border-radius: 50% !important;
 }
 
@@ -23,8 +20,8 @@
 .tracker {
   /* visibility: hidden; */
   position: fixed;
-  /* margin-inline-end: auto;  */
-  bottom: 0; 
+  /* margin-inline-end: auto; */
+  bottom: 0;
   right: 0;
 }
 
@@ -95,11 +92,6 @@
   -webkit-border-radius: 5px;
 }
 
-/* .readme:hover{
-  color: white;
-  background-color: #00796b;
-} */
-
 .contactme {
   position: relative;
   padding: 11px 35px;
@@ -115,44 +107,23 @@
   -webkit-border-radius: 5px;
 }
 
-.contactme:hover{
+.contactme:hover {
   color: #00796b;
   background-color: white;
 }
+
 /* main body */
 
-/* body-color */
-
 body {
-  color: #333;
-  font-size: 18px;
-}
-
-/* body {
   color: black;
   font-size: 18px;
-} */
-
-/* main a -- links */
-
-/* a {
-  color: #009688;
-} */
-
-a {
-  color: #004d40;
 }
 
-/* main blockqoute */
+a {
+  color: #eae594;
+}
 
-/* blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
-  font-size: 125%;
-  font-weight: 400;
-  margin: 20px 0;
-  padding-left: 1.5rem;
-} */
+/* main blockquote */
 
 blockquote {
   border-left: 5px solid #795548;
@@ -180,12 +151,6 @@ nav {
   height: 0;
 }
 
-/* nav {
-  background: rgb(149, 126, 212);
-  box-shadow: none;
-  height: 0;
-} */
-
 nav i {
   padding: 0 15px;
   position: relative;
@@ -194,15 +159,25 @@ nav i {
 
 /* main */
 
+main {
+  background: linear-gradient(to bottom, #FFD700, #FFFF00); /* Different shades of yellow */
+  padding-left: 190px;
+}
+
+
+
+
+/* main */
+
 /* main {
   background: url(../../assets/img/bg.png) repeat;
   padding-left: 190px;
 } */
 
-main {
+/* main {
   background: url(../../assets/img/bg.png) repeat;
   padding-left: 190px;
-}
+} */
 
 dl {
   margin-top: 0.5rem;
@@ -320,9 +295,10 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: yellow repeat;
   position: relative;
 }
+
 
 #intro.section .container {
   color: white;
