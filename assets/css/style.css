@@ -160,24 +160,15 @@ nav i {
 /* main */
 
 main {
-  background: linear-gradient(to bottom, #f7e791, #ffe760); /* Different shades of yellow */
+  background: #ffff99; /* Light yellow */
   padding-left: 190px;
 }
 
 
 
 
+
 /* main */
-
-/* main {
-  background: url(../../assets/img/bg.png) repeat;
-  padding-left: 190px;
-} */
-
-/* main {
-  background: url(../../assets/img/bg.png) repeat;
-  padding-left: 190px;
-} */
 
 dl {
   margin-top: 0.5rem;
@@ -359,12 +350,12 @@ h3 {
 
 .card li a {
   margin-right: 0;
-  color: #333;
+  color: #a77f11;
   border-bottom: 2px solid #ffab40;
 }
 
 .card li a:hover {
-  color: #333;
+  color: #a77f11;
   font-weight: 500;
 }
 
@@ -404,7 +395,7 @@ h3 {
 
 .card-action span {
   font-size: 85%;
-  color: #666;
+  color: #d2a430;
 }
 
 .card ul {
@@ -418,7 +409,7 @@ h3 {
 }
 
 .card ul li li {
-  color: #666;
+  color: #d2a430;
   font-size: 13px;
 }
 
@@ -535,7 +526,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #fff1a0 !important;
+  background-color: #c5aa3e !important;
 }
 
 /* .teal {
