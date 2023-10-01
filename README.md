@@ -9,6 +9,7 @@ Activity 2
 ![Screenshot 2023-10-01 124831](https://github.com/avaj4/avaj4.github.io/assets/53788244/dd77cb97-ab10-429a-ab92-cd8cc57e531e)
 
 Activity 3
+![image](https://github.com/avaj4/avaj4.github.io/assets/53788244/eb81d4d3-f848-4218-a3cb-e49e28c81b51)
 ![Screenshot 2023-10-01 135359](https://github.com/avaj4/avaj4.github.io/assets/53788244/a957c863-dcf7-4933-bc04-5761ea9efb08)
 
 Activity 4
