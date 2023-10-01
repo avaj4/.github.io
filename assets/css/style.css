@@ -8,7 +8,7 @@
   /* display: inline-block; */
   margin: -31px;
   margin-left: -7px;
-  border: 6px solid rgb(243, 238, 136);
+  border: 6px solid rgb(225, 103, 103);
   border-radius: 50% !important;
 }
 
@@ -56,7 +56,7 @@
 }
 
 .angellist {
-  color: rgb(255, 219, 121);
+  color: rgb(151, 65, 88);
 }
 
 .icon-btn:hover {
@@ -69,7 +69,7 @@
 }
 
 .angellist:hover {
-  background-color: rgb(255, 219, 121);
+  background-color: rgb(163, 77, 80);
 }
 
 .github:hover {
@@ -82,7 +82,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #face60;
+  color: #eeafc1;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -108,7 +108,7 @@
 }
 
 .contactme:hover {
-  color: #fdf876;
+  color: #ffb0d1;
   background-color: white;
 }
 
@@ -120,14 +120,14 @@ body {
 }
 
 a {
-  color: #eae594;
+  color: #a75f66;
 }
 
 /* main blockquote */
 
 blockquote {
-  border-left: 5px solid #ebe58a;
-  color: #ebe58a;
+  border-left: 5px solid #863e4e;
+  color: #8d566c;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -160,7 +160,7 @@ nav i {
 /* main */
 
 main {
-  background: #ffff99; /* Light yellow */
+  background: #ffffff; /* Light yellow */
   padding-left: 190px;
 }
 
@@ -191,7 +191,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(242, 216, 67);
+  color: rgb(167, 74, 89);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -261,7 +261,7 @@ h3 {
 /* Original */
 
 #intro.section {
-  background: rgb(254, 237, 107) repeat;
+  background: rgb(212, 63, 93) repeat;
   position: relative;
 }
 
@@ -283,7 +283,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #e0cf49;
+  border-bottom: 5px solid #af3f58;
 }
 
 #intro.section .teal {
@@ -302,7 +302,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(255, 238, 128, 0.899);
+  background-color: rgba(235, 74, 120, 0.899);
 }
 
 .card {
@@ -318,12 +318,12 @@ h3 {
 
 .card li a {
   margin-right: 0;
-  color: #a77f11;
-  border-bottom: 2px solid #ffab40;
+  color: #8b3b51;
+  border-bottom: 2px solid #8a3b60;
 }
 
 .card li a:hover {
-  color: #a77f11;
+  color: #933f62;
   font-weight: 500;
 }
 
@@ -363,7 +363,7 @@ h3 {
 
 .card-action span {
   font-size: 85%;
-  color: #d2a430;
+  color: #e07092;
 }
 
 .card ul {
@@ -377,7 +377,7 @@ h3 {
 }
 
 .card ul li li {
-  color: #d2a430;
+  color: #d67194;
   font-size: 13px;
 }
 
@@ -404,7 +404,7 @@ a.hoverline {
 /* main a.hoverline */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #bbad55 !important;
+  border-bottom: 3px solid #823141 !important;
 }
 
 #skills .card.large {
@@ -480,12 +480,12 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #ffd53c !important;
+  color: #7f1037 !important;
 }
 
 
 .teal {
-  background-color: #c5aa3e !important;
+  background-color: #7b3f5c !important;
 }
 
 /* .teal {
@@ -528,7 +528,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #ffd050;
+    color: #9a3049;
     height: 56px;
     line-height: 56px;
   }
