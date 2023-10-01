@@ -525,7 +525,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #ffd53c !important;
 }
 
 /* .teal-text {
@@ -535,7 +535,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #fff1a0 !important;
 }
 
 /* .teal {
@@ -578,7 +578,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #ffd050;
     height: 56px;
     line-height: 56px;
   }
