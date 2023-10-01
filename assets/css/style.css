@@ -8,7 +8,7 @@
   /* display: inline-block; */
   margin: -31px;
   margin-left: -7px;
-  border: 6px solid rgba(0, 77, 64, 0.4);
+  border: 6px solid rgb(243, 238, 136);
   border-radius: 50% !important;
 }
 
@@ -108,7 +108,7 @@
 }
 
 .contactme:hover {
-  color: #00796b;
+  color: #fdf876;
   background-color: white;
 }
 
@@ -126,8 +126,8 @@ a {
 /* main blockquote */
 
 blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
+  border-left: 5px solid #ebe58a;
+  color: #ebe58a;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -160,7 +160,7 @@ nav i {
 /* main */
 
 main {
-  background: linear-gradient(to bottom, #FFD700, #FFFF00); /* Different shades of yellow */
+  background: linear-gradient(to bottom, #f7e791, #ffe760); /* Different shades of yellow */
   padding-left: 190px;
 }
 
@@ -212,7 +212,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: rgb(242, 216, 67);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -324,7 +324,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #24305e;
+  border-bottom: 5px solid #e0cf49;
 }
 
 #intro.section .teal {
@@ -343,7 +343,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(33, 150, 243, 0.2);
+  background-color: rgba(255, 238, 128, 0.899);
 }
 
 .card {
