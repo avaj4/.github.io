@@ -510,7 +510,7 @@ small {
 }
 
 .grey-text {
-  color: #666 !important;
+  color: #484848 !important;
 }
 
 /* main .teal-text */
@@ -519,11 +519,6 @@ small {
   color: #ffd53c !important;
 }
 
-/* .teal-text {
-  color: #0b5e86 !important;
-} */
-
-/* .teal */
 
 .teal {
   background-color: #c5aa3e !important;
